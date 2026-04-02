@@ -1,0 +1,3 @@
+[submodule "buildroot"]
+	path = buildroot
+	url = https://github.com/LJ0704/rpi-5-buildroot
